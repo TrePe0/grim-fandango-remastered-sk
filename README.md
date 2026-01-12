@@ -36,7 +36,7 @@ Stačí nakopírovať tieto súbory (prepísať existujúce) do adresára s hrou
 
 Peter Trebatický, Matúš Horváth, Justína Horváthová
 
-Preklad vychádza zo [slovenčiny pre originálne Grim Fandango](https://github.com/matushorvath/grim-sk). Pribudlo len niekoľko textov v menu a oprava preklepov. Komentáre autorov hry Grim Fandango, ktoré sa dajú zapnúť v hre, sme neprekladali. 
+Preklad vychádza zo [slovenčiny pre originálne Grim Fandango](https://github.com/matushorvath/grim-sk). Pribudlo len niekoľko textov v menu a oprava preklepov. Komentáre autorov Grim Fandango, ktoré sa dajú zapnúť v hre, sme neprekladali. 
 
 Fonty boli upravené pre slovenčinu z [českého prekladu](https://lokalizace.net/localizations/grim-fandango-remastered-2015) od ren7o (Tm)
 
