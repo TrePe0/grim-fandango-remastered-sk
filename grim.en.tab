@@ -58,7 +58,7 @@ sytx955	VÝTVARNÉ KONCEPTY
 sytx956	ÁNO
 sytx957	NIE
 sytx958	Zvo½te Mo¾nos»
-sytx959	POÈKA«
+sytx959	CHVÍ¼U STRPENIA
 sytx960	OK
 sytx961	Klasicý (4:3) s Okrajmi
 sytx962	Prepnú» Spôsob Renderovania
@@ -3197,8 +3197,8 @@ ccma146	Hneï sa vrátim.
 cclu147	OK!
 cima001	Pozri sa na tento fe¹ný preukaz do Klubu ve½kých hráèov!
 cima002	Neveril by si akí sú tam do seba zah½adení.
-cima003	Nemyslím si, ¾e ich klub nie je o niè viac VIP ako ná¹, èo povie¹?
-cigl004	Ja neviem, J-j-ja s-sa sna¾ím dr¾a» ï-ïalej od toho m-miesta...
+cima003	Nemyslím, ¾e ich klub je viac VIP ako ná¹, èo povie¹?
+cigl004	Ja neviem, j-j-ja s-sa sna¾ím dr¾a» ï-ïalej od toho m-miesta...
 cima005	Fakt? Preèo?
 cigl006	Kvôli môjmu...
 cigl007	...môjmu...
@@ -3720,8 +3720,8 @@ lmma041	Potom mô¾em ráno vypláva» na Limbo?
 lmve042	Ááách jaj.
 lmve043	ASI HEJ.
 lmma044	Aké nástroje potrebuje Glottis?
-lmve045	Len znaèkové "Nástoje morských vèiel".
-lmma046	Kde zo¾eniem "Nástoje morských vèiel"?
+lmve045	Len znaèkové "Nástroje morských vèiel".
+lmma046	Kde zo¾eniem "Nástroje morských vèiel"?
 lmve047	Preèo sa nespýte morskej vèely?
 lmve048	Bojíte sa, ¾e vás po¹típe?
 lmve049	HA HA HA, HA-HA!!!
@@ -3873,7 +3873,7 @@ bima407	Skôr èi neskôr, ale raz dovnútra pôjdem.
 bima089	Ach, hniezdoèko lásky.
 biol408	Je u¾ èas ís»?
 bima409	Nie, máme tu trochu problém s autom...
-biol410	Zastav sa, keï bude èas!
+biol410	Daj vedie», keï sa vyrie¹i!
 bima090	Vadilo by, keby som vo¹iel?
 biol091	Tam by sa ti urèite nepáèilo.
 biol092	Nie je tam upratané.
@@ -3884,7 +3884,7 @@ bima096	Z toho by bolo len ve½a iskier a rozbitého skla a na¹tvaných beatnikov.
 bima097	Ja sa nemie¹am do Oliviiných vecí, ona sa nemie¹a do mojich. Tak znie dohoda.
 bima098	Volá sa Olivia Ofrenda.
 bima099	Nie Maxove dievèa. V ¾iadnom prípade.
-biol100	Kto sú títo? Kto je Salvador Limones?
+biol100	Èo sú tieto? Kto je Salvador Limones?
 bima101	Olivia, èo si to za revolucionára?
 biol102	Kto povedal, ¾e som revolucionár?
 biol103	V ka¾dom prípade by som si to mala na¹tudova», mohlo by to zapôsobi» na zákazníkov...
@@ -3983,7 +3983,7 @@ biol309	Moje zuby...
 biol310	Tá Temnota...
 biol311	...kosti... kosti... kosti...
 biol312	...popol na popol...
-biol313	Bolím.
+biol313	Trpím.
 biol314	Preèo?
 biol315	Alebo je to inak?
 biol316	Vidí¹ vôòe, èo cítim?
@@ -4102,7 +4102,7 @@ bima138	Moje zuby...
 bima139	Tá Temnota...
 bima140	...kosti... kosti... kosti...
 bima141	...popol na popol...
-bima142	Bolím.
+bima142	Trpím.
 bima143	Preèo?
 bima144	Alebo je to inak?
 bima145	Vidí¹ vôòe, èo cítim?
@@ -4159,7 +4159,7 @@ bima195	Tak sa s maèkou nehraj.
 bima196	Som ve½mi dojatý!
 bima197	Toto si mi povedala v spánku.
 bima198	Neunesiem to...
-bima199	Mali ste pre seba prezývky?
+bima199	Vy ste sa ne¾ne oslovovali?
 bima200	Na bitúnku mojej du¹e...
 bima201	Siahnem...
 bima202	Bolí.
@@ -4185,8 +4185,8 @@ bkbw002	Hej, èloveèe. ®e ste ma nevideli dáva» tajnú prísadu do týchto zabijácky
 bkma003	Upokojte sa. Olivia mi tento recept ukradla.
 bkbw004	Hej...ona bohatým kradne a dáva mne nalieva» chudobným...
 bktx005	sink
-bkma006	Drez je plný ¹pinavej tabakovej vody.
-bkma008	Nemienim pi» ¹pinavú tabakovú vodu a nemô¾em ju nabra» holými rukami.
+bkma006	Drez je plný ¹pinavej vody z vodnej fajky.
+bkma008	Nemienim pi» ¹pinavú vodu z vodnej fajky a nemô¾em ju nabra» holými rukami.
 bktx009	dishwasher
 bkma010	V umývaèke riadu niè nie je.
 bkma012	Nechcem vyzera» ako kapitalistický utláèate½, ale na to mám ½udí.
@@ -4972,7 +4972,7 @@ ddte092	®e poli¹i spia v jednej posteli s hazardnými podnikmi.
 ddma093	Hej, ja mám slu¹ný podnik. Ja nie som s nikým v posteli.
 ddte094	A èo peniaze za ochranu?
 ddma095	Ka¾dý tý¾deò platíme naèas, ako diví tak, ako by mal ka¾dý slu¹ný podnik!
-ddte096	Vidí¹ èo myslím?
+ddte096	Vidí¹, èo myslím?
 ddte097	Toto mesto je plné podvodníkov...
 ddte098	...smejúcich sa, tancujúcich a navzájom si ¹krabkajú chrbty!
 ddma099	Chlapi, preèo nepracujete tam hore?
@@ -5023,7 +5023,7 @@ ddte143	Ach... ako, spôsob ako sú veci vyrábané, by mal by» riadený...
 ddte144	Chcem poveda», mali by sme...
 ddte145	Ach, zabudni na to!
 ddte146	Som len tupá, hladná, nezamestnaná vèela.
-ddte147	To sa ti ½ahko povie, makaè.
+ddte147	To sa ti ½ahko povie, elitár.
 hhtx001	union card
 hhma002	Teraz je zo mòa odborár.
 hhma003	Nemienim túto kartu pou¾íva» na niè iné, len aby som sa dostal na tú loï!
@@ -5045,7 +5045,7 @@ hhra019	Oui, Monsieur...
 hhra020	(...ale vlastne sa volám Raoul.)
 hlma094	Chcem ti poveda» smutný príbeh o mladom mu¾ovi, neprávom uväznenom iba preto, ¾e povedal nahlas, èo si myslel...
 hlma095	Pozri èo som na¹iel v kabínke s cie½ovými fotografiami...
-hlma096	Vyzerá to, ¾e "Nezbedné maèiatko" a "Zlý kocúr Tom" sú tesne pri sebe...
+hlma096	Vyzerá, ¾e "Nezbedné maèiatko" a "Zlý kocúr" sú tesne pri sebe...
 hlvi097	Èo chce¹?
 hlma098	Dám ti vedie», keï si to premyslím.
 hlma099	Rad¹ej buï nablízku.
@@ -5158,7 +5158,7 @@ hlvi020	Ale veï oni SÚ zmanipulované.
 hlma021	Presne. Preto potrebujem právnika.
 hlma022	Rozbieham obrovský súdny spor. Sú v tom ve½ké prachy...
 hlvi023	Koho chce¹ o¹meknú»?
-hlma024	Èo na tom zále¾í? Sú napakovaný.
+hlma024	Èo na tom zále¾í? Sú napakovaní.
 hlvi025	Hmmm. Lákavé.
 hlma026	Vlastne sa sna¾ím adoptova» Glottisa.
 hlvi027	Manny, ten démon je od teba viac ako o dvetisíc rokov star¹í.
@@ -5190,7 +5190,7 @@ hlma052	Nemám èas na hry, Virago.
 hlvi053	Ani ja, tak sa vrá» keï to bude¹ myslie» vá¾ne.
 hlma054	Keï tak o tom premý¹½am, vlastne ho ani nepotrebujem.
 hlvi055	Ka¾dý ho potrebuje, niekedy.
-hlvi056	Potom mi odká¾, keï sa to stane.
+hlvi056	Potom mi daj vedie», keï sa to stane.
 hlma057	Virago, SKUTOÈNE potrebujem právnika.
 hlvi058	No, môj poradovník je u¾ plný, èo s tým spraví¹?
 hlvi059	Èo je to tentokrát, Calavera?
@@ -5236,8 +5236,8 @@ hkra005	Ó, mon dieu!
 hkgl006	Dávame si trochu chrape-vous, eh?
 hkgl007	LE pohár je LE prázdny, tak sa pohni, kamo¹!
 hkra008	Áno, monsieur, merci, èo len poviete!
-hkra009	Aitor! NOS VÍNO!
-hkra010	Idem ho vyhodi» pre ignorovanie nadriadeného, a potom snáï pôjdem domov.
+hkra009	Aitor! NON VÍNO!
+hkra010	Dám mu padáka, lebo ka¹½al na moje prosby, a potom s tým asi seknem aj ja.
 hkra011	U¾ sa na tú komoru nikdy nebudem môc» pozrie»...
 hkra012	Nikto by nemal by» nikdy zamknutý na takom malom a tmavom mieste.
 hkma013	Uuuuf.
@@ -5316,7 +5316,7 @@ hkma084	Vyzerá ako komora.
 hkma085	Niee, ak teraz pustím toho èa¹níka, nechá ma vynies» z klubu.
 hkma086	To by malo zabezpeèi», ¾e jedlu nenarastú no¾ièky.
 hktx087	turkey baster
-hkma088	To je podlievaè na hydinu plný ¹pinavej drezovej vody.
+hkma088	To je podlievaè na hydinu plný ¹pinavej vody z vodnej fajky.
 hkma089	Vyzerá ako podlievaè na hydinu.
 hkma090	Nechcem tú ¹pinavú vodu porozlieva» naokolo.
 hktx091	cans
@@ -5333,7 +5333,7 @@ hkma101	Rad¹ej by som ho neotváral kým je plný.
 hkma102	Mohla by vzniknú» pekná mláèka...
 hktx103	spigot
 hkma104	No, keby som sa dokázal prepcha» cez ten kohútik, mohol by som sa skry» vnútri.
-hkma105	Mám také tu¹enie, ¾e v òom bude víno.
+hkma105	Mám také tu¹enie, ¾e odtia½ teèie víno.
 hkma106	Niè.
 hktx107	door
 hktx108	door
@@ -5682,7 +5682,7 @@ suma142	Hej! Rozprávam sa s vami!
 such143	Hej! Nechajte ma!
 such144	Grrrr... Ahh!
 such145	Aaaaaah!
-such146	LeggoLeggoLEGGO!
+such146	Pus»pus»PUS«!
 such147	Zo¾eòte si vlastnú lampu, kolega!
 such148	¼udia sa sna¾ia ukradnú» mi lampu ka¾dú chví½u!
 such149	Èo sa stalo so zákonmi mora?
@@ -5699,7 +5699,7 @@ suma159	Hijole. Zjavne tu dole strávil viac èasu, ako je zdravé.
 sutx160	Lola
 suma161	Och Lola, tu¹ím som »a zasa sklamal.
 suma162	Och, myslím, ¾e u¾ oceán brázdi» nebude.
-sugl163	Povedal som ti, ¾e to nie je ¹»astné meno.
+sugl163	Vravel som ti, ¾e to meno prinesie smolu.
 suma164	Hej.
 sugl165	Prepáè.
 sutx166	Glottis
@@ -5707,7 +5707,7 @@ suma167	E¹te nezmodrel.
 suma168	Si v poriadku?
 sugl169	Som bytos» zeme, Manny...
 sugl170	...nie mora!
-suma171	Vydr¾ chví½u, Mano.
+suma171	Vydr¾ to, Mano.
 such172	Hlllg!
 sugl173	Èo s tým mám robi»?
 suma174	Nasleduj ma.
@@ -5732,7 +5732,7 @@ such012	Ua-ha-ha! Wah-ha-ha!
 suma013	Mô¾eme sa k vám prida»?
 such014	No, hovoríme tu o dos» dlhej ceste...
 suma015	Nemáme ¾iadnu inú mo¾nos».
-such016	Tak dobre, zdvihnite sa, nalepte sa tesne za moje svetlo a sna¾te sa nespieva» falo¹ne!
+such016	Tak dobre, zdvihnite kolená, nalepte sa tesne za moje svetlo a sna¾te sa nespieva» falo¹ne!
 suma017	Tu¹ím to vyzerá ako na¹a loï!
 such018	To je len zrakový klam, oceán sa èasto zahráva so zmyslami, synak.
 such019	Po èase v¹etko vyzerá rovnako, ako keby ste chodili stále do kruhu.
@@ -5745,7 +5745,7 @@ such025	A ¾e sa niekedy námorníci, nalákaní jej krásou, vrhajú cez palubu aby ju
 such026	...a aby ich u¾ nikto nikdy viac nevidel?
 suma027	Presne. A myslím, ¾e je práve tam...
 such028	Baaaaah!
-such029	Po dne tohoto oceánu chodím u¾ roky a nikdy som ju nevidel!
+such029	Po dne tohto oceánu chodím u¾ roky a nikdy som ju nevidel!
 suma030	Nie, naozaj. Tá perla je presne tamto!
 such031	Vy úbohé nedochôdèa, to je MESIAC!
 such032	Len mi nevravte, ¾e ste sa sem hrabali len kvôli tomu, aby ste vylovili Mesiac! Ha-ha-ha-haaa!
@@ -5822,10 +5822,10 @@ psma012	Tak¾e skutoène Perla EXISTUJE! Ale má to znamena», ¾e Meche naozaj skoèi
 psma013	To by bolo dos» divné.
 psgl014	He he. Divnej¹ie ako napríklad Chepito?
 psma015	V hlave sa mi preháòajú dôle¾itej¹ie veci ako kráde¾ ¹perkov.
-psch016	J nie!
+psch016	Mne nie!
 pstx017	Glottis
 psma018	Stále nezmodrel. Má snáï niekde skryté ¾iabre?
-psma019	Glottis, choï tam a porozprávaj sa s tou chobotnicou ako... prí¹era s prí¹erou.
+psma019	Glottis, choï a porozprávaj sa s tou chobotnicou ako... prí¹era s prí¹erou.
 psgl020	To urèite! Bojím sa. Ostanem tu s tebou pekne v bezpeèí.
 psch021	Brk-brk-brk, BRAAAAAAAK!
 pstx022	Chepito
@@ -5979,7 +5979,7 @@ mnch028	Vy a tie va¹e fe¹né LODE o tom vôbec neviete...
 mnch029	...preto¾e sa nikdy nezastavíte, aby ste sa pozreli.
 mnma030	Dajte mi nejaký poklad a ja pre nás kúpim cestu von odtia½to.
 mnch031	Vymenil som v¹etok za túto nádheru!
-mnma032	Vy ste vymenili drahokamy a vzácne mince za silné náradie?
+mnma032	Vy ste vymenili drahokamy a vzácne mince za náradie?
 mnch033	TO JE EXTRA-DRTIÈ!
 mnma034	Chcem nieèo vymeni».
 mnch035	No, tak to ste na správnom mieste, synak.
@@ -5995,7 +5995,7 @@ mnch044	Chceli by ste ju vymeni»?
 mnma045	Och, to nie.
 mnma046	Môj pulóver.
 mnch047	To hej, to je fajn.
-mnch048	Akrilový?
+mnch048	Akrylový?
 mnma049	Nie, prírodný.
 mnch050	Och, to je blbé. Prírodné vlákna sú pod vodou ve½mi nepohodlné.
 mnma051	Viem, viem...
@@ -6079,8 +6079,8 @@ vdma032	Och a mal som ich tak pekne zoradené a tak.
 vdma033	Myslím, ¾e som nezadal správnu kombináciu.
 vdma034	Keby som Extra-rozdrtil k½uèku, u¾ nikdy by som sa nedostal dovnútra.
 vdtx035	door jam
-vdma036	Ú, stavím sa, ¾e by som to dokázal otvori»...
-vdma037	...len keby som v pokri neprehral môj odborársky preukaz!
+vdma036	Ú, stavím sa, ¾e by som sa doò dokázal dosta»...
+vdma037	...len keby som v pokri neprehral svoj odborársky preukaz!
 vdma038	Ach, moja èepe½ je prihrubá.
 vdma039	Toto kladivko je malé, ale nie dos» na to, aby sa tam vmestilo.
 vdma040	Á!
@@ -6093,11 +6093,11 @@ vdma046	Toto sú západky kombinaèného zámku.
 vdma047	Tieto západky sú zrejme z tvrd¹ej ocele ako vonkaj¹ok dverí.
 vdma048	Nedoká¾em ich hýba» rukami, ale na to je tu to koleso.
 vdma049	Nedajú sa vybra», sú na nejakom »a¾kom hriadeli.
-vdma050	Stojte!
+vdma050	Nehýba»!
 vdma051	Ú, nenávidím ten zvuk!
 vdma052	To je cesta spä» k vzduchovej komore.
 vdma053	Musty.
-vdma054	Toto sú dvere do Mecheinej kancelárie.
+vdma054	Toto sú dvere do Meche-inej kancelárie.
 vdma055	Neviem, èo je tam ïalej...
 armc001	Pane, máte dohovorené stretnutie?
 arma002	Idem tam, aby som Dominovi povedal moje po¾iadavky.
@@ -6190,7 +6190,7 @@ armc088	Manny, preèo sa sem nevrátite, keï budete so mnou jedna» na rovinu, OK?
 arma089	Èo¾e? Preèo si myslíte, ¾e mám zbraò?
 armc090	Pracujete pre najlep¹ie vyzbrojenú organizáciu v Krajine màtvych.
 armc091	Nesna¾te sa ma presvedèi», ¾e vám nedali zbraò.
-arma092	Nie, nebudem.
+arma092	Nie, nedám.
 armc093	Nemyslím si.
 arma094	Jasné. Tu je.
 arma095	OK, pozrite, problém je v tom, ¾e ¾iadnu nemám.
@@ -6228,7 +6228,7 @@ arma126	Ublí¾il vám Domino nejako?
 armc127	Nie a¾ tak, ako ja jemu.
 armc128	Bo¾e, ako ten chlap vie prija» úder päs»ou!
 arma129	OK, nechám tých otázok.
-armc130	Skvelé, teraz vás musíme prime» presta» pou¾íva» tú kolínsku.
+armc130	Skvelé. Teraz by ste u¾ len mohli trochu ¹etri» tou kolínskou.
 arma131	Hej, teraz som námorník. Musíme ju ma».
 arma132	Idem sa poobzera» po nejakej lodi.
 armc133	Ó, skúste zohna» rýchlu, aby sme sa mohli ly¾ova» na vode, dobre?
@@ -6310,8 +6310,8 @@ drma059	Ale veï ste len mohli zobra» lístky a zmiznú»!
 drdo060	Na¹li sme spôsob, ako spravi» ¾ivot v Krajine màtvych ZNESITE¼NÝ. Preèo by sme chceli odís»?
 drma061	Má¹ tu pekný ostrov.
 drdo062	Veru. Predchádzajúci majitelia nevedeli, èo tu majú. Bol za babku.
-drdo063	Vy»a¾ili v¹etok koral, ktorý doèiahli ich ¾eriavom, a potom opustili továreò!
-drdo064	Ale my sme vedeli, ¾e máme èo treba, aby sme sa dostali bli¾¹ie k ve½kému útesu.
+drdo063	Vy»a¾ili v¹etok koral, kam a¾ doèiahli so ¾eriavom, a potom opustili továreò!
+drdo064	Ale my sme vedeli, ¾e máme prostriedky na to, aby sme sa dostali a¾ k okraju ve½kého útesu.
 drma065	Chce¹ ma zase pouèova» o tajomstve úspechu?
 drdo066	Nie!
 drdo067	Práca otrokov, Manny!
@@ -6392,7 +6392,7 @@ fobi184	Á ha ha!
 fopu185	HA HA HA!
 foma186	Tak fajn. Zostaòte si tam.
 fobi187	On JE ale krutý.
-foma188	To ste trochu prehnali, ak uvá¾ime, ¾e to nie je zamknuté.
+foma188	To je trochu prehnané, keï¾e to nie je zamknuté.
 fotx189	door
 foma001	Hola, anjelikovia!
 fopu002	Pokú¹em vás, prisahám.
@@ -6558,7 +6558,7 @@ ghma004	Musím ti poveda», kamo¹ko, myslel som si, ¾e si màtvy!
 ghgl005	Och, Manny, mám sa tu vynikajúco! Poèúvaj...
 ghgl006	Pýtam sa »a, existuje nejaký stroj, ktorý by odolal láske, èo sa ukrýva v týchto rukách?
 ghma007	Zjavne nie.
-ghma008	Som tak blízko priepasti, ako mám v úmysle.
+ghma008	Bli¾¹ie k priepasti u¾ by» nechcem.
 ghtx009	Glottis
 ghma010	Som tak rád, ¾e ho opä» vidím.
 ghma011	Myslím, ¾e táto ma¹inka je ná¹ lístok odtia½to.
@@ -6594,7 +6594,7 @@ bugl002	Ó áno, toto by malo staèi» tak akurááát.
 bugl003	Daj mi e¹te chví½u, nech to premyslím.
 butx004	coral crusher
 buma005	Mô¾e¹ vsadi» svoj ve½ký oran¾ový zadok, ¾e to bude staèi»!
-buma006	Nemô¾em uveri», ¾e som to zabil!
+buma006	Nemô¾em uveri», ¾e som to znièil!
 buma007	Glottis na tom práve robí.
 buma008	Mo¾no, keby som mal k dispozícii nejaký ve½ký oce½ový vlas...
 buma009	U¾ trpia, nepotrebujú lekciu od Extra-drtièa.
@@ -6721,7 +6721,7 @@ voma014	Èloveèe, Extra-drtiè a ja sme na tých dverách pekne zacvièili!
 voma015	Myslím, ¾e som ich u¾ dos» muèil.
 votx016	metal tab
 voma017	Nejaký druh kovového kontaktu.
-voma018	Vyzerá to, ¾e som tieto kontakty znièil keï som sa sem prebúral Extra-drtièom.
+voma018	Vyzerá, ¾e som Extra-drtièom po¹kodil kontakty.
 voma019	Mmmmm... nie.
 voma020	Elektrický prúd mi rozkmitá kostnú dreò.
 voma021	U¾ som to spravil z druhej strany.
@@ -6754,7 +6754,7 @@ votx048	secret door
 voma049	Milujem tajné dvere!
 vima001	Teraz u¾ len musíme poèka» kým sa celá miestnos» naplní a my sa u¾ len odplavíme!
 vima002	No, toto ma sklamalo.
-vimc003	Mòa nie. Neplavíme sa, spomínate?
+vimc003	Mòa nie. Nás voda nenad½ahèuje, spomínate?
 vimc004	Och, u¾ zase!
 vimc005	Ïakujem.
 vimc006	Hej, toto je moja miestnos»!
@@ -6800,7 +6800,7 @@ vima045	Ten vetrák je jediná úniková cesta, ktorú vidím.
 vima046	Nedoèiahol by som na ten vetrák, ani keby som sa postavil na Mecheine plecia.
 vimc047	Mimochodom, nedávalo by väè¹í zmysel, keby som sa postavila ja na va¹e plecia?
 vima048	®artujete? Pozrite na va¹e podpätky!
-vima049	S týmto by som sa toho ani nedotkol.
+vima049	S týmto to ani nedoèiahnem.
 vitx050	sprinkler
 vima051	Tento podomácky vyrobený rozpra¹ovací systém vyzerá, ¾e sa ide rozpadnú».
 vima052	Nedoèiahnem tak vysoko.
@@ -6836,7 +6836,7 @@ ludo027	Arrr!
 ludo028	Ahhh!
 luma029	Pozri, Dom, nebudem pre teba pracova»!
 ludo030	Ó, niè si z toho nerob... má¹ padáka!
-ludo031	Len zvá¾ toto... tvoje odstupné.
+ludo031	Pova¾uj toto... za tvoje odstupné.
 luma032	Po¹lem toto domino naspä» na kopu kostí.
 luma033	Vie¹, volá¹ sa Domino, ale v skutoènosti si len pe¹iak.
 ludo034	Prosím! Tieto vetièky z komiksov si nechaj a¾ keï zaène¹ vyhráva»!
@@ -7133,8 +7133,8 @@ mkma003	Dobrý nápad ma» poruke èistú handru.
 mkma004	Je plný handier.
 mktx005	toaster
 mkma042	Pri tomto toastovaèi je lístok: "Aby sa zabránilo ïal¹ím nehodám, PROSÍM...
-mkma043	...maslujte si va¹e anglické dolky a¾ PO ich opeèení. Údr¾bári"
-mkma007	V èom by si potom tí malí mechanici opekali svoje anglické dolky?
+mkma043	...maslujte si ¾emlièky a¾ PO ich opeèení. Údr¾bári"
+mkma007	V èom by si potom tí malí mechanici opekali svoje ¾emlièky?
 mktx008	mug rack
 mkma009	Hej, môj hrnèek je na ve¹iaku. Cítim sa ako èestný zamestnanec!
 mkma010	Je to ve¹iak na hrnèeky na konci sveta!
@@ -7180,7 +7180,7 @@ jbtx025	Bone Wagon
 jbma026	Èoskoro bude známy ako "Kostitresk".
 jbgl027	HEJ!
 jbgl028	TO NIE JE VTIPNÉ!
-jbma029	U½ahèil by som to, keby som mohol.
+jbma029	To by to u½ahèilo, keby som vládal.
 jbma030	Najprv ju zne¹kodním.
 jbma031	®elatína je stále tekutá. Nezabráni padaniu domina!
 jbma032	Nedostanem sa k nej bez spustenia Dominovej pasce!
@@ -7229,7 +7229,7 @@ jbma074	(vzdych)
 jbma075	To by vyrie¹ilo to½ko mojich problémov...
 jbtx076	dynamite
 jbma077	Diabolské!
-jbma078	No, niè sa nedá robi».
+jbma078	No, vyskú¹ame.
 jbtx079	door
 jbma080	To sú dvere do lodenice.
 nqma031	OK, toto je plán:
@@ -7304,11 +7304,11 @@ nqma076	To je vojakov zvy¹ok, ktorý NEVSTAL a nevyskackal odtia½to na jednej ruk
 nqma077	Rad¹ej zachránim túto èas» pred rozkvitnutím...
 nqma078	Jeho zbytok je u¾ zakorenený.
 nqtx079	arm
-nqma080	To by ma zaujímalo, ako sa ten vojak vysporiada bez tejto ruky?
+nqma080	To by ma zaujímalo, ako sa ten vojak zaobíde bez ruky?
 nqma081	Ïakujem, PANE!
 nqma082	Myslím, ¾e by to bolo neúctivé.
 nqtx083	tape recorder
-nqma084	Majú vyspelú nahrávaciu techniku, tu v Kanály.
+nqma084	Majú vyspelú nahrávaciu techniku, tu v Stoke.
 nqbl085	Hector, u¾ som pre vás skoro dokonèil tú novú kyticu tulipánov...
 nqhe086	Poèúvaj ma pozorne, Bowlsley!
 nqhe087	NIE SI KVETINÁR! SI VÝROBCA ZBRANÍ!!!
@@ -7437,16 +7437,16 @@ thma065	Hej, hovoríte o Johnny Hromotåkovi!
 thmk066	Pardon.
 tht1067	Ú, káva! Super!
 tht2068	Koneène máme svojho osobného asistenta!
-tht2069	Hej decko! Nech je èierna a nech je u¾ aj tu, jasné?
-tht2070	U¾ je naèase!
+tht2069	Hej, ty! Nech je èierna a nech jej je dos», jasné?
+tht2070	U¾ bolo naèase!
 thtx071	grinder
 thma072	To je prenosná drvièka.
-thma073	Teraz je z toho sekaèka na kosti!
+thma073	Teraz je z toho drviè kostí!
 thtx074	snow machine
 thma075	Tento stroj na výrobu snehu je obrovský!
 thma076	...ale drviaca èas» vyzerá by» prenosná.
 thma077	Bez drvièky sa s tým nedá ve½a urobi».
-thma078	Nie, keï si u¾ zaèal z drvením kosti, nedoká¾e¹ sa vráti» k umelému snehu.
+thma078	Nie, keï si u¾ zaèal s drvením kosti, nedá sa vráti» k umelému snehu.
 thma079	Myslím, ¾e by bol rád, keby vedel, ¾e jeho telo poslú¾ilo takémuto cie½u.
 thma080	Táto káva je u¾ pomletá.
 thma081	Nechcem, aby mi tá ruka rozkvitla naraz!
@@ -7474,7 +7474,7 @@ thtx100	Thunder Boy
 thtx101	Thunder Boys
 thma102	Wow, odtia½to v¹etci vyzerajú ako mravce!
 thma103	Skôr ako moje tety. Tie mali TONY mejkapu!
-thma104	Hej, Hrmotåci!
+thma104	Hej, Hromotåci!
 tht1105	Kto to povedal?
 tht2106	¼udia stále vykrikujú tvoje meno, keï si slávny.
 tht2107	Zvykne¹ si na to.
@@ -7581,15 +7581,15 @@ fibl057	Mô¾em vám pomôc»?
 fima058	Och, ehm...
 fima059	H½adám nieèo tak v deviatich milimetroch.
 fibl060	Óch, mám tu práve takú prekrásnu kyticu!
-fibl061	Tu to máte. Chcete k tomu aj zelenú vetvièku?
+fibl061	Tu to máte. Chcete k tomu aj biele kvietky?
 fima062	Jasné!
 fibl063	V poriadku, tu to máte!
-fibl064	Máte dnes skvelý deò!
+fibl064	Majte skvelý deò!
 fibl065	Hej! Viete, èo ste práve urobili?
 fibl066	Práve ste otvorili Pandorinu skrinku!
 fibl067	Vypadnete odtia½to hneï teraz, lebo vás nechám si to vy¾ra», ja...!
 fitx068	gun
-fima069	Hmmm, táto zbraò by tu¹ím vyzerala celkom pekne s kúskom zelenej vetvièky...
+fima069	Hmmm, táto zbraò by tu¹ím vyzerala celkom pekne s bielymi kvietkami...
 fima070	Tras sa, Hector!
 fima071	©etrím si náboje pre toho ve½kého chlapa.
 fitx072	can of sproutella
@@ -7668,7 +7668,7 @@ lyma035	Buenos días.
 lymc036	Ustúp, ¹pinavec, lebo ti môj man¾el rozmláti èe½us».
 lyma037	Meche, to som ja!
 lymc038	Manny? To je ale maskovanie!
-lymc039	Tu...
+lymc039	Tu má¹...
 lymc040	Pomô¾ mi navliec» pána Gamblera do tejto plachty, aby sme sa odtia½to dostali!
 lyma041	Ech, preèo ho chce¹ navliec» do plachty?
 lymc042	Povedala som mu, ¾e v kasíne Romano sa koná ve½ká tógová párty, ale musí ma» obleèenú túto plachtu, aby sa dostal dnu.
@@ -7696,7 +7696,7 @@ lycc063	Rrrrr!
 lycc064	Musí¹ by» trpezlivá, maèiatko, rrrrrr!
 lycc065	Odprevadím »a na tú párty hneï, ako si tu overím môj systém...
 lyma066	Hej, èo sa deje pod tým baloòákom?
-lyum067	Neviem èo sa deje pod tým mejkapom...
+lyum067	Neviem. Èo sa deje pod tým mejkapom...
 lyum068	...AGENT CALAVERA?
 lyma069	Vy? Nerozsekol vás dnes veèer Salvador na polovicu?
 lyum070	Áno a to mi dalo túto ú¾asnú mo¾nos» slú¾i» na¹ej veci...
@@ -7790,7 +7790,7 @@ lybs156	Tu¹ím nepoznáte Hectora LeMansa tak, ako poznám Hectora LeMansa ja.
 lyma157	Tie otázky si vymý¹½ate.
 lybs158	Je mi jasné, ¾e sa to mô¾e zda» tomu...
 lybs159	KTO NEPOZNÁ HECTORA LEMANSA!
-hfma002	Nu¾, niè sa nedá robi»!
+hfma002	Nu¾, vyskú¹ajme!
 hfhe003	Ha ha ha! Vedel som, ¾e ju presvedè...
 hfhe004	Èo¾e? Kto SI?
 hfma005	Som zúrivý...
@@ -7801,12 +7801,12 @@ hfce009	Och, teraz by som sa s ním nerozprával...
 hfce010	Blázni z nás, lebo si nekúpime jeho lístky.
 hfce011	Pán LeMans, rozhodli sme sa prija» va¹u ¹tedrú ponuku.
 hfhe012	Skvelé! Skvelé!
-hfhe013	Mladá dáma zmenila tvoj názor, èo?
+hfhe013	Mladá dáma zmenila vá¹ názor, èo?
 hfce014	Nie, vlastne to bol tamten vá¹ agent.
 hfhe015	Teda, ach, uch, samo... samozrejme, he, je jeden z mojich najlep¹ích! Uch-ha-ehm!
 hfhe016	Tak teda, poïte dnu a pohovoríme si, dobre?
 hfma017	(vzdych)
-hfma018	Stále ju mám.
+hfma018	Stále na to mám.
 hfhe019	Neviem, kto si a aké zaklínadlo si pou¾il na Floresovcov...
 hfhe020	Ale buï nablízku...
 hfhe021	Keï budem s nimi hotový, je nieèo na druhej strane mesta, èo by som ti chcel ukáza».
@@ -7829,7 +7829,7 @@ hfce036	Nu¾...
 hfma037	Som vá¹ cestovný agent!
 hfce038	Och, ja u¾ mám cestovného agenta.
 hfce039	Ale je na míle ïaleko, utiera dlá¾ku v bufete tak¾e predpokladám, ¾e to miesto je vo½né...
-hfma040	Vlastne, pracujem pre Hectora. Poslal ma, aby som vám zodpovedal va¹e otázky.
+hfma040	Vlastne, pracujem pre Hectora. Poslal ma, aby som zodpovedal va¹e otázky.
 hfce041	Ech... Postarám sa o to, moja drahá.
 hfce042	Èo mi mô¾ete poveda» o lístkoch na "Èíslo devä»"?
 hfce043	Tá cena sa zdá by» ove½a viac ako dvojnásobná...
@@ -7844,8 +7844,8 @@ hfma051	Správna otázka je, èi sa cítite hodní tých lístkov?
 hfce052	Viem, ¾e MY SME hodní, ale sú aj tie LÍSTKY to½ko hodné?
 hfma053	Na èo presne si tie peniaze ¹etríte? Na hor¹ie èasy?
 hfma054	Preto¾e, nieèo vám poviem: Ste màtvi.
-hfma055	Ka¾dý deò je obèas da¾divý.
-hfce056	Áno, ale to nie je dôvod neby» opatrný keï ide o vlastné peniaze!
+hfma055	Odteraz sú u¾ v¹etky èasy len hor¹ie.
+hfce056	Áno, ale to nie je dôvod neby» opatrný, keï ide o vlastné peniaze!
 hfma057	Nu¾, staèilo u¾ o vás, ½udkovia, poviem vám o svojich problémoch.
 hfce058	Vlastne, musíme toho e¹te ve½a prediskutova», tak¾e...
 hfma059	Tento mejkap je priedu¹ný asi tak, ako tvrdená guma!
@@ -7857,14 +7857,14 @@ hfce064	Vlastne, ja som sa tie¾ vrátil z malého dobrodru¾stva, tak¾e...
 hfma065	Teda, som si istý, ¾e ste videli lietajúce pavúky a plamenných bobrov, ale verte mi, mô¾e by» aj hor¹ie!
 hfma066	Viete, ¹iel som na kraj sveta a spä»...
 hfce067	Nevedel som, ¾e cestovanie Krajinou màtvych je také plné nebezpeèenstiev!
-hfma068	Tak¾e, ko½ko by ste zaplatili, aby sme to ukonèili?
+hfma068	Tak¾e, ko½ko by ste zaplatili, aby ste sa tomu vyhli?
 hfce069	Miláèik, poï.
 hfce070	Poïme vyhodi» svoju finanènú rezervu spoloène.
 hfma071	OK, tu¹ím vás moje problémy nezaujímajú.
 hfce072	Nu¾, nie¾e by nás to nezaujímalo, sme len trochu zaneprázdnení...
 hfma073	Toto je va¹a ¾ena, Celso?
 hfce074	Áno, práve sme sa vrátili z krásnej plavby...
-hfce075	Teda, stala sa zaujímavou a¾ keï som »a dohonil, moja malá tamale.
+hfce075	Teda, stala sa zaujímavou, a¾ keï som »a dohonil, moja malá tamale.
 hfma076	OK, len ma nechajte poveda» vám o tro¹ièku viac.
 hfce077	Skutoène neviem, ako by nám to mohlo pomôc» rozhodnú» sa...
 hfma078	Nu¾, ak budete potrebova» ïal¹iu pomoc s rozhodovaním, budem nablízku!
@@ -7982,18 +7982,18 @@ metx046	gun
 metx047	suitcase
 mema048	Niè také ako skutoèný McCoy.
 mema049	Po tom, èo sa vysporiadam s Hectorom.
-mema050	Teda, èo èlovek nevie... Sal mal lístok po celý èas.
-mema051	Sedí. Nezdá sa, ¾e by tu bol jeden pre mòa.
+mema050	Teda, èo sa èlovek nedozvie... Sal mal lístok po celý èas.
+mema051	No hej. Nezdá sa, ¾e by tu bol jeden pre mòa.
 metx052	Olivia
 metx053	car
-mema054	Dúfam, ¾e ASD mala toto auto dobre poistené!
+mema054	Dúfam, ¾e ASD má toto auto dobre poistené!
 mema055	Nemô¾em odís», kým nebudem vedie», ¾e Hector skonèil.
 mema056	Och áno, VE¼A munície!
 metx057	greenhouse
 mema058	Toto musí by» Hectorove vra¾edné mauzóleum.
 mema059	Kryje sa lep¹ie ako som si myslel.
 metx060	door
-mema061	Toto je cesta dnu. Dúfam len, ¾e je tam aj cesta von.
+mema061	Toto je cesta dnu. Dúfam len, ¾e je z tohto cesta von.
 mema062	Èo sa tam vnútri deje?
 mema063	Nejdem dnu, kým si nezo¾eniem nejaký chlorofyl.
 mema064	Nejdem bli¾¹ie, kým sa mu neminie munícia...
@@ -8150,7 +8150,7 @@ syma176	No, to by bolo nieèo!
 syma177	Moje vrecko na to nie je dos» ve½ké!
 syma215	Od»ahovacie auto som si zabudol v mojom druhom obleku.
 syma178	Toto nepotrebujem.
-syma216	Keby som sa toho dotkol, skonèil by som s palèákmi s popínavej rastliny.
+syma216	Keby som sa toho dotkol, skonèil by som s palèákmi z nezábudiek.
 syma193	To u¾ som urobil.
 syma194	U¾ mám.
 syma217	To nepotrebujem.
@@ -8158,7 +8158,7 @@ syma195	Tá du¹a u¾ bola znesená zo sveta.
 syma196	Démoni nemô¾u by» znesený zo sveta.
 syma179	Je to dobre uchytené.
 syma180	Je to tak ïaleko ako je to len mo¾né.
-syma181	Je to zapustené.
+syma181	Je to priskrutkované.
 syma182	Je to otvorené.
 syma183	Je to zavreté.
 syma184	To je rebrík.
@@ -8409,8 +8409,8 @@ brbma16	Vïaka za loï. A za nepýtanie sa príli¹ ve½a otázok.
 brbvl17	Sakra, po tom, èo sa stalo Naranjovi mi je jasné, preèo odchádzate z mesta. (vzdych) Len dúfam, ¾e vás nebudem musie» zasa vy»ahova» z drinku.
 brbma18	Nabudúce u¾ zostanem pod hladinou, s½ubujem.
 brben19	Kapitán? Kapitán Calavera?
-brbma20	Puerto Zapato, námorník! Koneène sme tu! Pekný prístav, èo poviete?
-brben21	Áno pane! Sú tu nejaký colní úradníci, pane. Chcú preh½ada» loï.
+brbma20	Puerto Zapato, námorník! Koneène sme tu! Nádherný prístav, èo poviete?
+brben21	Áno pane! Sú tu nejakí colní úradníci, pane. Chcú preh½ada» loï.
 brbma22	Dobre, dobre. Nemáme èo skrýva», nie?
 brbma23	®iadne kostrièky v skriniach! Ha! Ha!
 brben24	Áno pane!
@@ -8427,7 +8427,7 @@ escma01	E¹te trochu ïalej, Glottis!
 hdfgl02	Grrkpt! Manny!
 hdfma03f	Teraz sa chovaj ako pokojný èlovek, kým nevymyslím, èo ïalej...
 prlch01	Á! Okrádajú ma! Ach, ach. Berte si moju peòa¾enku! Len mi neubli¾ujte!
-prlma02b	Jediné, èo si zoberieme je malá prechádzka.
+prlma02b	Ukradneme si len vás - na malú prechádzku.
 prlgl03	Kam?
 prlma04b	K Perle.
 prlgl01	To je ona?
@@ -8482,11 +8482,11 @@ exoma08	...ja som »a musel nájs».
 exodo09	Dám ti JEDNU prácièku, Manny!
 exoma10	Uf.
 exodo11	A hneï vidím, ako ju nezvláda¹!
-exodo12	Hádam ti nemusím pripomína», ¾e toto sa objaví v tvojich spisoch...
+exodo12	Hádam ti nemusím pripomína», ¾e toto sa objaví v tvojom hodnotení...
 crudo01	Nemô¾em tomu uveri», Calavera...
 crudo02	Prehráva¹, a preto ubli¾uje¹ môjmu zvieratku???
 crudo03	Preèo sa mi viac nepodobá¹, Manny? Sna¾il som sa ti ukáza» ako, ale ty nepoèúva¹. Keby si si osvojil ten správny prístup...
-crudo04	...pozri, kam si to mohol dotiahnu»!
+crudo04	...pozri, ako si mohol dopadnú»!
 crudo05	Ááá!
 crugk06	Meno?
 crupp07	Pugsy Peligiano, pane.
@@ -9253,7 +9253,7 @@ cncr135a	Le numéro gagnant...
 tptx189	Pon
 tptx190	Uto
 tptx191	Str
-tptx192	©tv
+tptx192	Stv
 tptx193	Pia
 tptx194	Sob
 tptx195	Ned
